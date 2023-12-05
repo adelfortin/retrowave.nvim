@@ -1,5 +1,5 @@
 local colors = {
-  fg = '#8BA7A7',
+  fg = '#f8f8f8',
   bg = '#262335',
   alt_bg = '#241b2f',
   currentline = '#463465',
@@ -8,12 +8,12 @@ local colors = {
   cyan = '#61E2FF',
   green = '#72f1b8',
   orange = '#ff8b39',
-  pink = '#FC199A',
+  pink = '#ff7edb',
   purple = '#AF6DF9',
   red = '#fe4450',
   yellow = '#FFCC00',
   cursor_fg = '#282a36',
-  cursor_bg = '#8BA7A7',
+  cursor_bg = '#f8f8f8',
   sign_add = '#72f1b8',
   sign_change = '#ff8b39',
   sign_delete = '#fe4450',
@@ -23,8 +23,8 @@ local colors = {
   hint = '#61E2FF',
   other = '#AF6DF9',
   blankline = '#57367C',
-  active_blankline = '#7E0C4D',
-  inlay_hint = '#8C57C7',
+  active_blankline = '#39785C',
+  inlay_hint = '#CC64AF',
 }
 
 return colors
